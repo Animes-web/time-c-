@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\time\time\bin\Debug\net8.0\time.exe
+C:\Users\USER\source\repos\time\time\bin\Debug\net8.0\time.deps.json
+C:\Users\USER\source\repos\time\time\bin\Debug\net8.0\time.runtimeconfig.json
+C:\Users\USER\source\repos\time\time\bin\Debug\net8.0\time.dll
+C:\Users\USER\source\repos\time\time\bin\Debug\net8.0\time.pdb
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.AssemblyInfo.cs
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.dll
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\refint\time.dll
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.pdb
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\time.genruntimeconfig.cache
+C:\Users\USER\source\repos\time\time\obj\Debug\net8.0\ref\time.dll
